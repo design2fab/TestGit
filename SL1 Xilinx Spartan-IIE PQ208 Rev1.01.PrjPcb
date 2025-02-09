@@ -234,6 +234,9 @@ ConfigurationType=Assembly
 [Generic_EDE]
 OutputDir=Unit Output files
 
+[Generic_CoDesigner Mechatronic Panel]
+LastAcknowledgment=2025-02-09T00:35:03.0745000
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
